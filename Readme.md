@@ -16,7 +16,8 @@ pod init
 open Podfile
 # ejecutar bundle si quiere que lo haga con la version de ruby seteada
 bundle exec pod install 
-# ejecutar si no quiere utilizar la version de ruby seteada pod install
+# ejecutar si no quiere utilizar la version de ruby seteada
+pod install
 ```
 
 ## enable rosetta
