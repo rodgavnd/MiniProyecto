@@ -1,4 +1,5 @@
 # Mini proyecto 
+
 ## SetUp
 ```sh
 #terminal
@@ -17,9 +18,13 @@ open Podfile
 bundle exec pod install 
 # ejecutar si no quiere utilizar la version de ruby seteada pod install
 ```
+
+## enable rosetta
+    1. open finder->Aplications
+    2. search terminal->left clic->get information->check open with rosetta
+    2. search xcode->left clic->get information->check open with rosetta
+    
 ## add Google Maps in Podfile
-
-
 ```sh
 source 'https://github.com/CocoaPods/Specs.git'
 
